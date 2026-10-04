@@ -87,7 +87,10 @@ Scaling pipelines were applied where appropriate, while every selected classifie
 </table>
 
 <p align="center">
-  <img src="Model_Performance_Metrics.png" width="95%" alt="Precision Recall and F1 Score Comparison">
+  <img src="Model_Performance_Metrics.png"
+       width="95%"
+       height="320"
+       alt="Precision Recall and F1 Score Comparison">
 </p>
 
 <p align="center">
