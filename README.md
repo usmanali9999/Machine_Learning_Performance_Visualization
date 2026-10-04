@@ -87,12 +87,13 @@ Scaling pipelines were applied where appropriate, while every selected classifie
 </table>
 
 <p align="center">
-  <img src="Model_Performance_Metrics.png" width="65%" alt="Precision Recall and F1 Score Comparison">
+  <img src="Model_Performance_Metrics.png" width="95%" alt="Precision Recall and F1 Score Comparison">
 </p>
 
 <p align="center">
   <b>Precision, Recall & F1 Score Comparison</b>
 </p>
+
 
 ### Why multiple metrics?
 
@@ -284,7 +285,7 @@ Model selection in production should incorporate domain requirements, validation
 
 Data Analytics & Machine Learning Portfolio
 
-GitHub: `usmanali9999`
+GitHub: `https://github.com/usmanali9999`
 
 ---
 
