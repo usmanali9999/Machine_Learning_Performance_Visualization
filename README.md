@@ -287,7 +287,7 @@ Model selection in production should incorporate domain requirements, validation
 
 Data Analytics & Machine Learning Portfolio
 
-GitHub: `https://github.com/usmanali9999`
+GitHub: [github.com/usmanali9999](https://github.com/usmanali9999)
 
 ---
 
