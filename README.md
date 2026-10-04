@@ -283,11 +283,10 @@ Model selection in production should incorporate domain requirements, validation
 
 ## Author
 
-**Usman Ali**
+**Usman Ali**  
+Data Analytics & Machine Learning Portfolio  
 
-Data Analytics & Machine Learning Portfolio
-
-GitHub: [github.com/usmanali9999](https://github.com/usmanali9999)
+[GitHub Profile](https://github.com/usmanali9999) | [LinkedIn Profile](https://www.linkedin.com/in/usmanali9999)
 
 ---
 
