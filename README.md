@@ -96,17 +96,6 @@ Scaling pipelines were applied where appropriate, while every selected classifie
   <b>Precision, Recall & F1 Score Comparison</b>
 </p>
 
-<p align="center">
-  <img src="Model_Performance_Metrics.png"
-       width="95%"
-       height="320"
-       alt="Precision Recall and F1 Score Comparison">
-</p>
-
-<p align="center">
-  <b>Precision, Recall & F1 Score Comparison</b>
-</p>
-
 
 ### Why multiple metrics?
 
